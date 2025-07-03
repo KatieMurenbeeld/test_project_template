@@ -17,8 +17,9 @@ these packages.
 ### License Information:
 - Include licensing information to indicate how others can use and modify the project.
 
-### Contact Information:
-- Provide information on how to contact the project maintainers for questions or issues.
+## Contact Information:
+- For questions related to the code please email Katie Murenbeeld at 
+[katiemurenbeeld@boisestate.edu](mailto:katiemurenbeeld@boisestate.edu)
 
 #### Remember, a well-structured `README.md` improves the usability and collaboration potential of the repository!
 
