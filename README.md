@@ -1,13 +1,10 @@
+## Project Template Setup:
+- The goal of this repo is to practice setting up a reproducible and professional project page on GitHub.
 
-
-## `README.md` File Guidelines
-A good `README.md` file is essential for explaining the purpose of the project, how to use it, and providing instructions for others who may be working with the repository. Here are the key components to include:
-
-### Project Title and Description:
-- Provide a clear title and description of the project’s goals and objectives.
-
-### Installation Instructions:
-- Explain how to set up the project environment, including necessary dependencies and tools (e.g., R packages, external software).
+## Installation Instructions:
+- In order to load the required packages needed for this project:
+1. Run the `packages.R` script found in the /scripts/utilities/ directory. 
+  a. Please note that this script **will install** any required packages you do not currently have. Please make sure that you have permissions to download and use these packages.
 
 ### Usage Instructions:
 - Provide clear examples of how to use the scripts, templates, or functions included in the repository.
